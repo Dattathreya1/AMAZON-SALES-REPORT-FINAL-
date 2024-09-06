@@ -4,9 +4,13 @@ AMAZON SALES DATA ANALYSIS USING POWER BI: In Power BI project we focuses on Ama
 Various steps were performed on this project some of them where
 
 Step 1: Connecting Database (CSV)
+
 Step 2: Analyzing Tables & Relations
+
 Step 3: Data Cleaning - Power Query Editor DAX
+
 Step 4: Developing Visualization Models
+
 Step 5: Creating a Report and Pin to Dashboard
 
 Sales Overview:
@@ -36,8 +40,11 @@ Fulfillment by Amazon: 70.7%
 Standard Shipment: 69.76%
 
 CONCLUSION 
+
 The data analysis reveals that the business has a significant customer base in Maharashtra state, mainly serves retailers, fulfills orders through Amazon, experiences high demand fot T-Shirts, and sees M-Size as the preffered choice among buyers .
+
 Actionable insights were derived from the Amazon sales report, allowing the business to:
+
 Improve inventory management by focusing on top-performing products.
 Optimize fulfillment methods to ensure faster, more reliable delivery.
 Retain more customers through targeted marketing and loyalty programs.
