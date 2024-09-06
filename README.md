@@ -16,7 +16,9 @@ Step 5: Creating a Report and Pin to Dashboard
 Sales Overview:
 
 Filter Sales: Displays the total number of sales and the overall value of sales.
+
 Sales by City: A bar chart showing the distribution of sales across various cities with Bengaluru leading.
+
 Sum of amount based on State: A bar chart showing the distribution of sales across different states with Maharashtra leading.
  
 ![Screenshot (149)](https://github.com/user-attachments/assets/a5aa77aa-75ae-46f1-bc71-eb610d1a3123)
