@@ -15,5 +15,5 @@ Filter Sales: Displays the total number of sales and the overall value of sales.
 Sales by City: A bar chart showing the distribution of sales across various cities with Bengaluru leading.
 Sales by State: A bar chart showing the distribution of sales across different states with Maharashtra leading.
 Sales Trend: A line chart showing sales trends over time from April 2022 to June 2022, indicating peak sales periods and fluctuations.
-![Uploading Screenshot (149).png…]()
+![Screenshot (149)](https://github.com/user-attachments/assets/a5aa77aa-75ae-46f1-bc71-eb610d1a3123)
 
